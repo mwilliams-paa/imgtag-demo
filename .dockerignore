@@ -3,3 +3,4 @@ Dockerfile
 run.sh
 .git/
 .gitignore
+*.md
